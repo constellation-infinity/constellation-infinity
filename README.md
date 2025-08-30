@@ -14,11 +14,6 @@
 <h1> Hello, I'm Alex <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chains.png" width="70"/></h1>
 <div align="left">
 
- <!-- Dynamic Rainbow SVG - updates based on GitHub activity -->
- <a href="https://github.com/constellation-infinity">
-   <img src="images/profile-custom-rainbow.svg" width="100%" alt="GitHub Activity in Rainbow Colors">
- </a>
-
 <!--   About me -->
 ## Blockchain Developer & DeFi Architect
 
@@ -60,55 +55,36 @@ Currently working on **Constellation Infinity**, a cross-chain interoperability 
   </ul>
 </div>
 
-<!-- Weekly Stats -->
-<h2>⚡ Weekly Development Breakdown</h2>
+## 🏆 Certifications & Achievements
+
+- **Certified Ethereum Developer** - Ethereum Foundation
+- **Polkadot Blockchain Academy** - Web3 Foundation
+- **Chainlink Certified Developer** - Chainlink Labs
+- **1st Place** - ETHGlobal Hackathon 2022
+- **Security Auditor** - Immunefi Bug Bounty Program
 
 <div align="center">
+ <!-- Dynamic Rainbow SVG - updates based on GitHub activity -->
+ <a href="https://github.com/constellation-infinity">
+   <img src="images/profile-custom-rainbow.svg" width="100%" alt="GitHub Activity in Rainbow Colors">
+ </a>
   <!-- Dynamic contribution graph - shows your activity in real-time -->
   <a href="https://github.com/constellation-infinity">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=constellation-infinity&theme=react-dark&hide_border=true&area=true" width="100%">
   </a>
 </div>
 
-<div style="display: flex; justify-content: space-between; margin-top: 20px;"> 
-  <div style="width: 55%;"> 
-    <!-- Dynamic Wakatime stats if you have Wakatime connected --> 
-    <a href="https://wakatime.com/@de7e33cd-7510-4ee0-bd22-a2fad5673785"> 
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=constellation&layout=compact&hide_border=true&theme=dark&cache_seconds=1800" width="100%" /> 
-    </a> 
-  </div>
-  
-  <div style="width: 40%;">
-    <!-- Most Used Languages section -->
-    <div style="background-color: #1e1e1e; border-radius: 6px; padding: 15px; color: white;">
-      <h3 style="text-align: center; margin-top: 0;">Most Used Languages</h3>
-      <div style="margin-top: 15px;">
-        <!-- HTML -->
-        <div style="display: flex; align-items: center; margin-bottom: 8px;">
-          <span style="width: 12px; height: 12px; background-color: #e34c26; border-radius: 50%; display: inline-block; margin-right: 8px;"></span>
-          <span>HTML 55.80%</span>
-        </div>
-        <!-- JavaScript -->
-        <div style="display: flex; align-items: center; margin-bottom: 8px;">
-          <span style="width: 12px; height: 12px; background-color: #f1e05a; border-radius: 50%; display: inline-block; margin-right: 8px;"></span>
-          <span>JavaScript 40.52%</span>
-        </div>
-        <!-- SCSS -->
-        <div style="display: flex; align-items: center;">
-          <span style="width: 12px; height: 12px; background-color: #c6538c; border-radius: 50%; display: inline-block; margin-right: 8px;"></span>
-          <span>SCSS 3.27%</span>
-        </div>
-      </div>
-    </div>
-  </div>
+ 
 </div>
+
+
 
 ## 🚀 Featured Projects
 
 <div align="center">
 
 <!-- Dynamic repository cards - update automatically with latest stats -->
-<a href="https://github.com/constellation-infinity/cross-chain-bridge">
+<a href="https://github.com/constellation-infinity/Zellsed">
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/pin/?username=constellation-infinity&repo=cross-chain-bridge&theme=github_dark&cache_seconds=1800&show_owner=true"
@@ -118,7 +94,7 @@ Currently working on **Constellation Infinity**, a cross-chain interoperability 
 </picture>
 </a>
 
-<a href="https://github.com/constellation-infinity/defi-yield-aggregator">
+<a href="https://github.com/constellation-infinity/animated-portfolio">
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/pin/?username=constellation-infinity&repo=defi-yield-aggregator&theme=github_dark&cache_seconds=1800&show_owner=true"
@@ -129,11 +105,3 @@ Currently working on **Constellation Infinity**, a cross-chain interoperability 
 </a>
 
 </div>
-
-## 🏆 Certifications & Achievements
-
-- **Certified Ethereum Developer** - Ethereum Foundation
-- **Polkadot Blockchain Academy** - Web3 Foundation
-- **Chainlink Certified Developer** - Chainlink Labs
-- **1st Place** - ETHGlobal Hackathon 2022
-- **Security Auditor** - Immunefi Bug Bounty Program
