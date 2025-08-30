@@ -1,11 +1,13 @@
 <!-- Header icons -->
-<div align="right">
-  <!-- Modern theme-aware icons using picture element -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/First%20Quarter%20Moon%20Face.png" width="50">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sun%20with%20Face.png" width="50">
-    <img alt="Theme toggle icon" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sun%20with%20Face.png" width="50">
-  </picture>
+<div>
+
+
+  <a href="https://github.com/settings/appearance#gh-dark-mode-only">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/First%20Quarter%20Moon%20Face.png" width="50" align="right" />
+  </a>
+  <a href="https://github.com/settings/appearance#gh-light-mode-only">  
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sun%20with%20Face.png" width="50" align="right" />
+  </a>
 </div>
 
 <!-- Introduction -->
