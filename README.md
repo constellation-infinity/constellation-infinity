@@ -10,39 +10,6 @@
   </a>
 </div>
 
-<!-- GitHub Achievements -->
-<div align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/MultiLanguage-Rainbow%20Lang%20User-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="Rainbow Lang User" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Stars-Super%20Stargazer-FFD700?style=for-the-badge&logo=github&logoColor=white" alt="Super Stargazer" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Commits-God%20Committer-FFA500?style=for-the-badge&logo=github&logoColor=white" alt="God Committer" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Followers-Ultra%20Celebrity-9370DB?style=for-the-badge&logo=github&logoColor=white" alt="Ultra Celebrity" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Repositories-Ultra%20Repo%20Creator-4169E1?style=for-the-badge&logo=github&logoColor=white" alt="Ultra Repo Creator" />
-  </a>
-</div>
-<div align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/PullRequest-Hyper%20Puller-00CED1?style=for-the-badge&logo=github&logoColor=white" alt="Hyper Puller" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Experience-Experienced%20Dev-32CD32?style=for-the-badge&logo=github&logoColor=white" alt="Experienced Dev" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Issues-High%20Issuer-FF6347?style=for-the-badge&logo=github&logoColor=white" alt="High Issuer" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Reviews-Active%20Reviewer-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="Active Reviewer" />
-  </a>
-</div>
-
 <!-- Introduction -->
 <h1> Hello, I'm Alex <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chains.png" width="70"/></h1>
 <div align="left">
