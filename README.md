@@ -70,13 +70,36 @@ Currently working on **Constellation Infinity**, a cross-chain interoperability 
   </a>
 </div>
 
-<div style="display: flex; justify-content: space-between; margin-top: 20px;">
-  <div style="width: 100%; center-align">
-    <!-- Dynamic Wakatime stats if you have Wakatime connected -->
-    <a href="https://wakatime.com/@constellation_infinity">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=constellation_infinity&layout=compact&hide_border=true&theme=dark&cache_seconds=1800" width="100%" " />
-    </a>
+<div style="display: flex; justify-content: space-between; margin-top: 20px;"> 
+  <div style="width: 55%;"> 
+    <!-- Dynamic Wakatime stats if you have Wakatime connected --> 
+    <a href="https://wakatime.com/@de7e33cd-7510-4ee0-bd22-a2fad5673785"> 
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=constellation&layout=compact&hide_border=true&theme=dark&cache_seconds=1800" width="100%" /> 
+    </a> 
   </div>
+  
+  <div style="width: 40%;">
+    <!-- Most Used Languages section -->
+    <div style="background-color: #1e1e1e; border-radius: 6px; padding: 15px; color: white;">
+      <h3 style="text-align: center; margin-top: 0;">Most Used Languages</h3>
+      <div style="margin-top: 15px;">
+        <!-- HTML -->
+        <div style="display: flex; align-items: center; margin-bottom: 8px;">
+          <span style="width: 12px; height: 12px; background-color: #e34c26; border-radius: 50%; display: inline-block; margin-right: 8px;"></span>
+          <span>HTML 55.80%</span>
+        </div>
+        <!-- JavaScript -->
+        <div style="display: flex; align-items: center; margin-bottom: 8px;">
+          <span style="width: 12px; height: 12px; background-color: #f1e05a; border-radius: 50%; display: inline-block; margin-right: 8px;"></span>
+          <span>JavaScript 40.52%</span>
+        </div>
+        <!-- SCSS -->
+        <div style="display: flex; align-items: center;">
+          <span style="width: 12px; height: 12px; background-color: #c6538c; border-radius: 50%; display: inline-block; margin-right: 8px;"></span>
+          <span>SCSS 3.27%</span>
+        </div>
+      </div>
+    </div>
   </div>
 </div>
 
