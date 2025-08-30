@@ -3,6 +3,8 @@
  <!-- Day and Night icons -->
   <a href="https://github.com/settings/appearance#gh-light-mode-only">  
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sun%20with%20Face.png" width="50" align="right" />
+  <!-- Season SVG for light mode -->
+  <img src="images/profile-custom-season.svg" width="100%" />
   </a>
 
   <a href="https://github.com/settings/appearance#gh-dark-mode-only">
@@ -97,10 +99,10 @@ Currently working on **Constellation Infinity**, a cross-chain interoperability 
 <a href="https://github.com/constellation-infinity/animated-portfolio">
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=constellation-infinity&repo=defi-yield-aggregator&theme=github_dark&cache_seconds=1800&show_owner=true"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=constellation-infinity&repo=animated-portfolio&theme=github_dark&cache_seconds=1800&show_owner=true"
     media="(prefers-color-scheme: dark)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=constellation-infinity&repo=defi-yield-aggregator&cache_seconds=1800&show_owner=true" media="(prefers-color-scheme: light)"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=constellation-infinity&repo=animated-portfolio&cache_seconds=1800&show_owner=true" media="(prefers-color-scheme: light)"/>
 </picture>
 </a>
 
