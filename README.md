@@ -1,20 +1,21 @@
 <!-- Header icons -->
 <div>
- <!-- Day and Night icons -->
-  <a href="https://github.com/settings/appearance#gh-light-mode-only">  
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sun%20with%20Face.png" width="50" align="right" />
-  <!-- Season SVG for light mode -->
-  <img src="images/profile-custom-season.svg" width="100%" />
-  </a>
+
 
   <a href="https://github.com/settings/appearance#gh-dark-mode-only">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/First%20Quarter%20Moon%20Face.png" width="50" align="right" />
+  </a>
+  <a href="https://github.com/settings/appearance#gh-light-mode-only">  
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sun%20with%20Face.png" width="50" align="right" />
   </a>
 </div>
 
 <!-- Introduction -->
 <h1> Hello, I'm Alex <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chains.png" width="70"/></h1>
 <div align="left">
+<div align="right">
+  <img src="images/123Z_2101.w020.n001.946B.p15.946.jpg" width="100%" alt="Blockchain Developer" />
+</div>
 
 <!--   About me -->
 ## Blockchain Developer & DeFi Architect
@@ -65,15 +66,24 @@ Currently working on **Constellation Infinity**, a cross-chain interoperability 
 - **1st Place** - ETHGlobal Hackathon 2022
 - **Security Auditor** - Immunefi Bug Bounty Program
 
+
 <div align="center">
- <!-- Dynamic Rainbow SVG - updates based on GitHub activity -->
- <a href="https://github.com/constellation-infinity">
+ 
+ <!-- Dynamic SVGs - updates based on GitHub activity -->
+ <!-- Light mode SVG -->
+ <a href="https://github.com/constellation-infinity#gh-light-mode-only">
+   <img src="images/profile-custom-season.svg" width="100%" alt="GitHub Activity in Season Colors">
+ </a>
+ 
+ <!-- Dark mode SVG -->
+ <a href="https://github.com/constellation-infinity#gh-dark-mode-only">
    <img src="images/profile-custom-rainbow.svg" width="100%" alt="GitHub Activity in Rainbow Colors">
  </a>
-  <!-- Dynamic contribution graph - shows your activity in real-time -->
-  <a href="https://github.com/constellation-infinity">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=constellation-infinity&theme=react-dark&hide_border=true&area=true" width="100%">
-  </a>
+ 
+ <!-- Dynamic contribution graph - shows your activity in real-time -->
+ <a href="https://github.com/constellation-infinity">
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=constellation-infinity&theme=react-dark&hide_border=true&area=true" width="100%">
+ </a>
 </div>
 
  
