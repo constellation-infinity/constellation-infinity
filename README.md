@@ -1,17 +1,15 @@
-<!-- Header icons -->
-<div>
-
-
+<!-- Header with dark background -->
+<div style="background-color: #000000; padding: 20px; color: white; border-radius: 10px;">
   <a href="https://github.com/settings/appearance#gh-dark-mode-only">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/First%20Quarter%20Moon%20Face.png" width="50" align="right" />
   </a>
   <a href="https://github.com/settings/appearance#gh-light-mode-only">  
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sun%20with%20Face.png" width="50" align="right" />
   </a>
-</div>
+
 
 <!-- Introduction -->
-<h1> Hello, I'm Alex <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chains.png" width="70"/></h1>
+<h1> Hello, I'm a blockchain developer <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chains.png" width="70"/></h1>
 <div align="left">
 <div align="right">
   <img src="images/123Z_2101.w020.n001.946B.p15.946.jpg" width="100%" alt="Blockchain Developer" />
@@ -19,21 +17,149 @@
 
 <!--   About me -->
 ## Blockchain Developer & DeFi Architect
+<div align="center" width=100%>
 
-With over 7 years of experience in blockchain development, I specialize in building decentralized applications, smart contracts, and DeFi protocols. My expertise spans across multiple blockchain ecosystems including Ethereum, Solana, Polkadot, and Layer 2 solutions.
+<!--[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=constellation-infinity&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/constellation-infinity)<-->
 
-Currently working on **Constellation Infinity**, a cross-chain interoperability protocol designed to bridge isolated blockchain networks and enable seamless asset transfers.
+</div>
+<div align="left">
+<img src="images/3588353-preview.png" width="25%" align="right"/>
+With over 7 years of experience in blockchain development, I specialize in building decentralized applications, smart contracts, and DeFi protocols. 
+My expertise spans across multiple blockchain ecosystems including Ethereum, Solana, Polkadot, and Layer 2 solutions.
+</div>
 
 <!-- Programming languages & Technologies -->
 
-## 💻 Tech Stack
+## 💻 Tech Stack AND TOOLS
 
-<a href="https://github.com/constellation-infinity#gh-light-mode-only">
-<img src="https://skillicons.dev/icons?i=solidity,rust,go,typescript,javascript,react,nodejs,python&theme=light&perline=8" />
-</a>
-<a href="https://github.com/constellation-infinity#gh-dark-mode-only">
-<img src="https://skillicons.dev/icons?i=solidity,rust,go,typescript,javascript,react,nodejs,python&theme=dark&perline=8" />
-</a>
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
+      <br>React
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />
+      <br>Next.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vue" width="45" height="45" alt="Vue" />
+      <br>Vue
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nuxtjs" width="45" height="45" alt="Nuxt.js" />
+      <br>Nuxt.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular" />
+      <br>Angular
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
+      <br>Express
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel" />
+      <br>Laravel
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=rails" width="45" height="45" alt="rails" />
+      <br>Rails
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="55" height="55" />
+      <br>Django
+    </td>
+    <td align="center" width="90">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/phoenix/phoenix-original-wordmark.svg" title="Phoenix" alt="Phoenix " width="45" height="45"/>
+      <br>Phoenix
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
+      <br>Javascript
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
+      <br>Typescript
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="php" />
+      <br>PHP
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=ruby" width="45" height="45" alt="Ruby" />
+      <br>Ruby
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
+      <br>Python
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" />
+      <br>MySQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=sqlite" width="45" height="45" alt="SQLite" />
+      <br>SQLite
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=supabase" width="45" height="45" alt="Supabase" />
+      <br>Supabase
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=flutter" width="45" height="45" alt="Flutter" />
+      <br>Flutter
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=androidstudio" width="45" height="45" alt="AndroidStudio" />
+      <br>Android
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=materialui" width="45" height="45" alt="MUI v5" />
+      <br>MaterialUI
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=styledcomponents" width="45" height="45" alt="StyledCom" />
+      <br>Styled
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=threejs" width="45" height="45" alt="Three.js" />
+      <br>Three.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" height="45" >
+      <br>NFT
+    </td>
+    <td align="center" width="90">
+      <img src="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true" height="45" >
+      <br>DeFi
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45" alt="Solidity" />
+      <br>Solidity
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Rust" />
+      <br>Rust
+    </td>
+  </tr>
+</table>
 
 ## 🔗 Blockchain Ecosystems
 
@@ -47,8 +173,7 @@ Currently working on **Constellation Infinity**, a cross-chain interoperability 
 ## 📝 Blockchain Articles & Research <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png?raw=true" alt="Writing Hand" width="35" height="35" />
 
 <div align="left">
-  <img src="images/research.gif" width="40%" align="right" />
-  
+  <img src="images/research.gif" width="20%" align="right" />
   <ul>
     <li><a href="https://dev.to/">Implementing Zero-Knowledge Proofs in Modern DeFi Applications</a></li>
     <li><a href="https://dev.to/">Cross-Chain Interoperability: Challenges and Solutions</a></li>
@@ -65,10 +190,11 @@ Currently working on **Constellation Infinity**, a cross-chain interoperability 
 - **Chainlink Certified Developer** - Chainlink Labs
 - **1st Place** - ETHGlobal Hackathon 2022
 - **Security Auditor** - Immunefi Bug Bounty Program
-
+  
 
 <div align="center">
- 
+
+  <img src="https://github-profile-trophy.vercel.app?username=hiroshisekiya644&column=9&row=2&margin-w=15&padding=10&show_icons=true&line_height=30&theme=algolia" height="150" alt="constellation-infinity graph" />
  <!-- Dynamic SVGs - updates based on GitHub activity -->
  <!-- Light mode SVG -->
  <a href="https://github.com/constellation-infinity#gh-light-mode-only">
@@ -79,41 +205,48 @@ Currently working on **Constellation Infinity**, a cross-chain interoperability 
  <a href="https://github.com/constellation-infinity#gh-dark-mode-only">
    <img src="images/profile-custom-rainbow.svg" width="100%" alt="GitHub Activity in Rainbow Colors">
  </a>
+ </div>
  
+## 📈 Github State
+<div align="center">
  <!-- Dynamic contribution graph - shows your activity in real-time -->
  <a href="https://github.com/constellation-infinity">
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=constellation-infinity&theme=react-dark&hide_border=true&area=true" width="100%">
  </a>
 </div>
 
- 
-</div>
-
-
-
-## 🚀 Featured Projects
 
 <div align="center">
+  <img src="https://amateur0911.vercel.app/api?username=constellation-infinity&include_all_commits=true&count_private=true&show_icons=true&line_height=30&theme=nightowl"height="250" width="100%" alt="constellation-infinity's Github Stats">
+<div>
 
+
+
+<div align="left">
+
+## 🚀 Featured Projects
+</div>
 <!-- Dynamic repository cards - update automatically with latest stats -->
-<a href="https://github.com/constellation-infinity/Zellsed">
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=constellation-infinity&repo=cross-chain-bridge&theme=github_dark&cache_seconds=1800&show_owner=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=constellation-infinity&repo=cross-chain-bridge&cache_seconds=1800&show_owner=true" media="(prefers-color-scheme: light)"/>
-</picture>
-</a>
-
+<div align="center">
 <a href="https://github.com/constellation-infinity/animated-portfolio">
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=constellation-infinity&repo=animated-portfolio&theme=github_dark&cache_seconds=1800&show_owner=true"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=constellation-infinity&repo=animated-portfolio&theme=ambient_gradient&cache_seconds=1800&show_owner=true"
     media="(prefers-color-scheme: dark)"
   />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=constellation-infinity&repo=animated-portfolio&cache_seconds=1800&show_owner=true" media="(prefers-color-scheme: light)"/>
 </picture>
 </a>
 
+<a href="https://github.com/constellation-infinity/animated-portfolio">
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=constellation-infinity&repo=animated-portfolio&theme=ambient_gradient&cache_seconds=1800&show_owner=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=constellation-infinity&repo=animated-portfolio&cache_seconds=1800&show_owner=true" media="(prefers-color-scheme: light)"/>
+</picture>
+</a>
+
+</div>
 </div>
