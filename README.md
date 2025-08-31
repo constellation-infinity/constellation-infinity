@@ -23,7 +23,7 @@
 
 </div>
 <div align="left">
-<img src="images/14257-preview.png" width="25%" align="right"/>
+<img src="images/14257-preview.png" width="20%" align="right"/>
 With over 7 years of experience in blockchain development, I specialize in building decentralized applications, smart contracts, and DeFi protocols. 
 My expertise spans across multiple blockchain ecosystems including Ethereum, Solana, Polkadot, and Layer 2 solutions.
 </div>
