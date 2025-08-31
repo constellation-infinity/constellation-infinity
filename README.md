@@ -23,7 +23,7 @@
 
 </div>
 <div align="left">
-<img src="images/3588353-preview.png" width="25%" align="right"/>
+<img src="images/14257-preview.png" width="25%" align="right"/>
 With over 7 years of experience in blockchain development, I specialize in building decentralized applications, smart contracts, and DeFi protocols. 
 My expertise spans across multiple blockchain ecosystems including Ethereum, Solana, Polkadot, and Layer 2 solutions.
 </div>
@@ -162,7 +162,7 @@ My expertise spans across multiple blockchain ecosystems including Ethereum, Sol
 </table>
 
 ## 🔗 Blockchain Ecosystems
-
+<img src="images/3588353-preview.png" width="25%" align="right"/>
 - **Ethereum** - Smart contracts, ERC standards, DeFi protocols
 - **Solana** - High-performance dApps, SPL tokens
 - **Polkadot** - Parachains, Cross-chain communication
@@ -214,13 +214,6 @@ My expertise spans across multiple blockchain ecosystems including Ethereum, Sol
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=constellation-infinity&theme=react-dark&hide_border=true&area=true" width="100%">
  </a>
 </div>
-
-
-<div align="center">
-  <img src="https://amateur0911.vercel.app/api?username=constellation-infinity&include_all_commits=true&count_private=true&show_icons=true&line_height=30&theme=nightowl"height="250" width="100%" alt="constellation-infinity's Github Stats">
-<div>
-
-
 
 <div align="left">
 
