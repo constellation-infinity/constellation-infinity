@@ -1,5 +1,5 @@
 <!-- Header with dark background -->
-<div style="background-color: #000000; padding: 20px; color: white; border-radius: 10px;">
+<div style="background-color: #0d1117; padding: 20px; color: white; border-radius: 10px;">
   <a href="https://github.com/settings/appearance#gh-dark-mode-only">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/First%20Quarter%20Moon%20Face.png" width="50" align="right" />
   </a>
