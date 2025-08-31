@@ -163,6 +163,7 @@ My expertise spans across multiple blockchain ecosystems including Ethereum, Sol
 
 ## 🔗 Blockchain Ecosystems
 <img src="images/3588353-preview.png" width="25%" align="right"/>
+
 - **Ethereum** - Smart contracts, ERC standards, DeFi protocols
 - **Solana** - High-performance dApps, SPL tokens
 - **Polkadot** - Parachains, Cross-chain communication
@@ -170,7 +171,9 @@ My expertise spans across multiple blockchain ecosystems including Ethereum, Sol
 - **IPFS & Filecoin** - Decentralized storage solutions
 - **Web3 Infrastructure** - TheGraph, Chainlink, Infura
 
-## 📝 Blockchain Articles & Research <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png?raw=true" alt="Writing Hand" width="35" height="35" />
+## 📝 Blockchain Articles & Research 
+
+<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png?raw=true" alt="Writing Hand" width="35" height="35" />
 
 <div align="left">
   <img src="images/research.gif" width="20%" align="right" />
