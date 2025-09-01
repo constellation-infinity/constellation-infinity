@@ -27,7 +27,7 @@
 I’m a Blockchain & AI Developer with hands-on expertise in building scalable decentralized applications (DApps), DeFi platforms, and smart contracts. 
 I specialize in creating end-to-end solutions that merge cutting-edge AI capabilities with blockchain technology, empowering next-generation Web3 ecosystems.
 
-<br/>
+ 
 💡 AI & Blockchain Developer with strong experience in: 
 
 - Front-end Development: ReactJS, NextJS → building pixel-perfect, responsive UIs for Web3 applications.
