@@ -24,8 +24,18 @@
 </div>
 <div align="left">
 <img src="images/3588353-preview.png" width="25%" align="right"/>
-With over 7 years of experience in blockchain development, I specialize in building decentralized applications, smart contracts, and DeFi protocols. 
-My expertise spans across multiple blockchain ecosystems including Ethereum, Solana, Polkadot, and Layer 2 solutions.
+I’m a Blockchain & AI Developer with hands-on expertise in building scalable decentralized applications (DApps), DeFi platforms, and smart contracts. 
+I specialize in creating end-to-end solutions that merge cutting-edge AI capabilities with blockchain technology, empowering next-generation Web3 ecosystems.
+
+💡 AI & Blockchain Developer with strong experience in:
+
+- Front-end Development: ReactJS, NextJS → building pixel-perfect, responsive UIs for Web3 applications.
+- Back-end Engineering: NestJS & Golang → creating robust, high-performance APIs and microservices.
+- Smart Contracts: Solidity & Rust → designing secure and optimized contracts for Ethereum, EVM chains, and Solana.
+- Blockchain Solutions: Tokenization, DeFi protocols, NFT marketplaces, DAO governance, and cross-chain integrations.
+- AI Integration: Leveraging machine learning & AI models to enhance blockchain use cases like predictive analytics, automation, and intelligent dApps.
+
+⚡ I thrive on solving complex problems, bridging AI + blockchain innovation, and delivering impactful decentralized solutions that scale.
 </div>
 
 <!-- Programming languages & Technologies -->
