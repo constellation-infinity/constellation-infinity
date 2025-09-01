@@ -223,23 +223,23 @@ My expertise spans across multiple blockchain ecosystems including Ethereum, Sol
 </div>
 <!-- Dynamic repository cards - update automatically with latest stats -->
 <div align="center">
-<a href="https://github.com/constellation-infinity/animated-portfolio">
+<a href="https://github.com/constellation-infinity/alphanet">
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=constellation-infinity&repo=animated-portfolio&theme=ambient_gradient&cache_seconds=1800&show_owner=true"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=constellation-infinity&repo=alphanet&theme=ambient_gradient&cache_seconds=1800&show_owner=true"
     media="(prefers-color-scheme: dark)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=constellation-infinity&repo=animated-portfolio&cache_seconds=1800&show_owner=true" media="(prefers-color-scheme: light)"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=constellation-infinity&repo=alphanet&cache_seconds=1800&show_owner=true" media="(prefers-color-scheme: light)"/>
 </picture>
 </a>
 
-<a href="https://github.com/constellation-infinity/animated-portfolio">
+<a href="https://github.com/constellation-infinity/creon-tech-showcase">
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=constellation-infinity&repo=animated-portfolio&theme=ambient_gradient&cache_seconds=1800&show_owner=true"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=constellation-infinity&repo=creon-tech-showcase&theme=ambient_gradient&cache_seconds=1800&show_owner=true"
     media="(prefers-color-scheme: dark)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=constellation-infinity&repo=animated-portfolio&cache_seconds=1800&show_owner=true" media="(prefers-color-scheme: light)"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=constellation-infinity&repo=creon-tech-showcase&cache_seconds=1800&show_owner=true" media="(prefers-color-scheme: light)"/>
 </picture>
 </a>
 
