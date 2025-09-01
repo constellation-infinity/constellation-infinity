@@ -213,7 +213,7 @@ My expertise spans across multiple blockchain ecosystems including Ethereum, Sol
 <div align="center">
  <!-- Dynamic contribution graph - shows your activity in real-time -->
  <a href="https://github.com/constellation-infinity">
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=constellation-infinity&theme=react-dark&hide_border=true&area=true" width="100%">
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=constellation-infinity&theme=react-dark&hide_border=true&area=true" width="100%" style="background: transparent;>
  </a>
 </div>
 
