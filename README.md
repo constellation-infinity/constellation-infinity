@@ -233,13 +233,13 @@ My expertise spans across multiple blockchain ecosystems including Ethereum, Sol
 </picture>
 </a>
 
-<a href="https://github.com/constellation-infinity/awesome-starknet">
+<a href="https://github.com/constellation-infinity/alphanet">
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=constellation-infinity&repo=awesome-starknet&theme=ambient_gradient&cache_seconds=1800&show_owner=true"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=constellation-infinity&repo=alphanet&theme=ambient_gradient&cache_seconds=1800&show_owner=true"
     media="(prefers-color-scheme: dark)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=constellation-infinity&repo=awesome-starknet&cache_seconds=1800&show_owner=true" media="(prefers-color-scheme: light)"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=constellation-infinity&repo=alphanet&cache_seconds=1800&show_owner=true" media="(prefers-color-scheme: light)"/>
 </picture>
 </a>
 
