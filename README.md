@@ -219,7 +219,6 @@ My expertise spans across multiple blockchain ecosystems including Ethereum, Sol
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=constellation-infinity&theme=react-dark&hide_border=true&area=true&" width="100%">
  </a>
 </div>
-</div>
 
 <div align="left">
 
