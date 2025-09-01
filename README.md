@@ -197,12 +197,12 @@ My expertise spans across multiple blockchain ecosystems including Ethereum, Sol
   <img src="https://github-profile-trophy.vercel.app?username=hiroshisekiya644&column=9&row=2&margin-w=15&padding=10&show_icons=true&line_height=30&theme=algolia" height="150" alt="constellation-infinity graph" />
  <!-- Dynamic SVGs - updates based on GitHub activity -->
  <!-- Light mode SVG -->
- <a href="https://github.com/constellation-infinity#gh-light-mode-only">
+ <a href="https://github.com/hiroshisekiya644#gh-light-mode-only">
    <img src="images/profile-custom-season.svg" width="100%" alt="GitHub Activity in Season Colors">
  </a>
  
  <!-- Dark mode SVG -->
- <a href="https://github.com/constellation-infinity#gh-dark-mode-only">
+ <a href="https://github.com/hiroshisekiya644#gh-dark-mode-only">
    <img src="images/profile-custom-rainbow.svg" width="100%" alt="GitHub Activity in Rainbow Colors">
  </a>
  </div>
