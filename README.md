@@ -213,7 +213,7 @@ My expertise spans across multiple blockchain ecosystems including Ethereum, Sol
 <div align="center">
  <!-- Dynamic contribution graph - shows your activity in real-time -->
    <a href="https://github.com/constellation-infinity#gh-light-mode-only">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=constellation-infinity&theme=minimal&hide_border=true&area=true&bg_color=transparent&color=0099cc&point=006699&line=0099cc&area_color=5bcdec44&title_color=24292F&text_color=57606A" width="100%" style="background: transparent;">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=constellation-infinity&theme=minimal&hide_border=true&area=true&bg_color=transparent&color=0099cc&point=006699&line=0099cc&area_color=008cbb&title_color=#cbce7eb&text_color=57606A" width="100%" style="background: transparent;">
  <a href="https://github.com/constellation-infinity#gh-dark-mode-only">
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=constellation-infinity&theme=react-dark&hide_border=true&area=true&" width="100%">
  </a>
