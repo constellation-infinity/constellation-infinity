@@ -205,7 +205,7 @@ I specialize in creating end-to-end solutions that merge cutting-edge AI capabil
 
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app?username=hiroshisekiya644&column=9&row=2&margin-w=15&padding=10&show_icons=true&line_height=30&theme=algolia" height="150" alt="constellation-infinity graph" />
+  <img src="https://github-profile-trophy.vercel.app?username=constellation-infinity&column=9&row=2&margin-w=15&padding=10&show_icons=true&line_height=30&theme=algolia" height="150" alt="constellation-infinity graph" />
 <!--
  <a href="https://github.com/hiroshisekiya644#gh-light-mode-only">
    <img src="images/profile-custom-season.svg" width="100%" alt="GitHub Activity in Season Colors">
